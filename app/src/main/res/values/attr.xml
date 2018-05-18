@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="typeface" format="enum">
+        <enum name="hairline" value="1"/>
+        <enum name="ultra_light" value="2"/>
+        <enum name="light" value="3"/>
+        <enum name="regular" value="4"/>
+        <enum name="semi_bold" value="5"/>
+        <enum name="bold" value="6"/>
+    </attr>
+
+    <declare-styleable name="CircleView">
+        <attr name="cv_color" format="color" />
+        <attr name="cv_radius" format="integer" />
+    </declare-styleable>
+
+</resources>

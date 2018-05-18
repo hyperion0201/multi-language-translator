@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">English Spanish Translator</string>
+
+    <string name="ROOT_URL">https://translate.yandex.net</string>
+    <string name="from">English</string>
+    <string name="fromHint">Type or speak English here</string>
+    <string name="to">Spanish</string>
+    <string name="toHint">Escribe o habla inglés aquí</string>
+
+    <string name="convertHeader">ENGLISH TO SPANISH</string>
+
+
+    <string name="fromR">Spanish</string>
+    <string name="fromHintR">Type or speak Spanish here</string>
+    <string name="toR">English</string>
+    <string name="toHintR">Click translate to get English text</string>
+
+    <string name="convertHeaderR">SPANISH TO ENGLISH</string>
+
+    <string name="emptyEnglish">Content not available</string>
+    <string name="emptyChinese">Contenido no disponible</string>
+
+    <string name="audiodisplayChinese">Di algo</string><!-- Display in MIC  "Say Something"-->
+
+    <string name="convertingPD">Patience, We are translating...</string>
+    <string name="convertingPDR">Paciencia, estamos traduciendo ...</string>
+
+
+    <string name="APInot200">Please Try Again</string>
+    <string name="APInot200R">Inténtalo de nuevo</string>
+
+    <string name="Copied">Copied</string>
+    <string name="CopiedR">Copiado</string>
+
+    <string name="FIRSTLANG">ENGLISH</string>
+    <string name="FIRSTLANGR">SPANISH</string>
+
+
+    <string name="FIRSTLANGCODE">en</string>
+    <string name="FIRSTLANGCODER">es</string>
+
+    <string name="InternetConnectionError">Failed to Convert!Check Internet Connection</string>
+    <string name="InternetConnectionErrorR">Error al convertir! Compruebe la conexión a Internet</string>
+
+    <string name="share_subject">Hey, I found this amazing English - Spanish Translator App.</string>
+    <string name="share_subjectR">Hola, he encontrado esta increíble aplicación de Traductor Inglés - Español.</string>
+
+    <!-- Admob -->
+
+    <string name="do_you_want_banner_ads">Yes</string><!-- Type Yes/ No Case Insensitive -->
+    <string name="do_you_want_interstitial_ads">Yes</string><!-- Type Yes/ No Case Insensitive -->
+
+    <string name="YOUR_ADMOB_AD_ID">ca-app-pub-6553884734105254/6653381103</string>
+    <string name="YOUR_ADMOB_INT_AD_ID">ca-app-pub-6553884734105254/4453581413</string>
+    <string name="YOUR_ADMOB_BANNER_AD_ID">ca-app-pub-6553884734105254/6653381103</string>
+
+    <!-- Analytics -->
+    <string name="YOUR_ANALYTICS_TRACKER_ID">UA-71837612-5</string>
+
+    <!-- Firebase Notification Title -->
+    <string name="Notification_Title">English Spanish Translator</string>
+
+
+
+</resources>

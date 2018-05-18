@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".TranslateActivity">
+
+    <item
+        android:id="@+id/action_rate"
+        android:title="Rate Us"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/action_share"
+        android:icon="@mipmap/action_share"
+        android:title="Share"
+        app:showAsAction="always"></item>
+</menu>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#fd5c63</color>
+    <color name="primary_dark">#fd5c63</color>
+    <color name="primary_darker">#fd5c63</color>
+    <color name="button_color">#388E3C</color>
+    <color name="primary_dark_transparent">#7712353d</color>
+    <color name="accent">#1E656D</color>
+
+    <color name="black">#000000</color>
+
+    <color name="primaryTextColor">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="light_grey">#E0E0E0</color> <!--#E0E0E0-->
+    <color name="white">#FFFFFF</color>
+    <color name="colorAccent">#fd5c63</color>
+    <color name="colorPrimary">#fd5c63</color>
+    <color name="colorPrimaryDark">#fd5c63</color>
+
+</resources>
